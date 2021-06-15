@@ -1,2 +1,1 @@
-### README ###
-- 연습장
+### OpenSource SW Homework ###
