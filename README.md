@@ -1,1 +1,3 @@
-### OpenSource SW Homework ###
+### "오픈소스 SW 활용" 과목 과제
+
+Dijango를 활용한 웹 띄우기 과제
